@@ -1,6 +1,6 @@
 ---
 name: exam-ocr-rebuilder
-version: 1.0.0
+version: 1.0.1
 description: "Exam paper OCR rebuilder. Upload a PDF or image of an exam paper, and the skill uses OCR to recognize the content, then uses AI to classify question types, extract structure, and rebuild a clean, editable exam paper. Triggers: 试卷OCR, 试卷识别, 试卷重建, 试卷录入, PDF试卷, exam OCR, exam paper rebuild, test paper recognition"
 description_zh: "试卷OCR重建助手。上传试卷PDF或图片，自动OCR识别内容，AI分类题型、提取结构，重建为可编辑的新试卷。支持选择题、填空题、判断题、简答题、计算题、论述题、阅读理解、完形填空等全题型。"
 user-invocable: true
