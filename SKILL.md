@@ -1,5 +1,7 @@
 ---
 name: exam-ocr-rebuilder
+slug: exam-ocr-rebuilder-pdf
+displayName: 试卷OCR重建助手
 version: 1.0.2
 description: "Exam paper OCR rebuilder with LLM audit. Supports 11 question types, tencent-docs OCR integration, and interactive HTML report generation. Triggers: 试卷OCR, 试卷识别, 试卷重建, 试卷录入, PDF试卷, exam OCR, exam paper rebuild"
 description_zh: "试卷OCR重建助手。上传试卷PDF或图片，自动OCR识别内容，AI分类题型、提取结构，LLM审核校正，重建为可编辑的新试卷。支持11种题型，输出HTML/JSON/Markdown格式。"
